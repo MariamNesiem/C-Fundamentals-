@@ -1,0 +1,13 @@
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\bin\Debug\netcoreapp3.1\src.exe
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\bin\Debug\netcoreapp3.1\src.deps.json
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.json
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.dev.json
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\bin\Debug\netcoreapp3.1\src.dll
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\bin\Debug\netcoreapp3.1\src.pdb
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\obj\Debug\netcoreapp3.1\src.csproj.CoreCompileInputs.cache
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\obj\Debug\netcoreapp3.1\src.dll
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\obj\Debug\netcoreapp3.1\src.pdb
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamentals\gradebookProject\src\obj\Debug\netcoreapp3.1\src.genruntimeconfig.cache
