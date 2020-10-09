@@ -1,0 +1,13 @@
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\bin\Debug\netcoreapp3.1\Arrays With CSV.exe
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\bin\Debug\netcoreapp3.1\Arrays With CSV.deps.json
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\bin\Debug\netcoreapp3.1\Arrays With CSV.runtimeconfig.json
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\bin\Debug\netcoreapp3.1\Arrays With CSV.runtimeconfig.dev.json
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\bin\Debug\netcoreapp3.1\Arrays With CSV.dll
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\bin\Debug\netcoreapp3.1\Arrays With CSV.pdb
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\obj\Debug\netcoreapp3.1\Arrays With CSV.csprojAssemblyReference.cache
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\obj\Debug\netcoreapp3.1\Arrays With CSV.AssemblyInfoInputs.cache
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\obj\Debug\netcoreapp3.1\Arrays With CSV.AssemblyInfo.cs
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\obj\Debug\netcoreapp3.1\Arrays With CSV.csproj.CoreCompileInputs.cache
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\obj\Debug\netcoreapp3.1\Arrays With CSV.dll
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\obj\Debug\netcoreapp3.1\Arrays With CSV.pdb
+C:\Users\mariam.nesiem\Documents\Studies\C# fundamental\Collections\src\Arrays With CSV\obj\Debug\netcoreapp3.1\Arrays With CSV.genruntimeconfig.cache
